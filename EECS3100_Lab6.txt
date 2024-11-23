@@ -1,6 +1,6 @@
 ;*******************************************************************
 ; main.s
-; Author: Logan Crawfis & Landon Jackson
+; Author: 
 ; Date Created: 06/31/2021
 ; Last Modified: 07/02/2021
 ; Section Number: 046
